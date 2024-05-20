@@ -1,0 +1,648 @@
+{
+    "links": [
+        {
+            "relation": "方位",
+            "source": "亚洲",
+            "target": "东亚",
+            "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "亚洲",
+            "target": "西亚",
+            "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "亚洲",
+            "target": "南亚",
+            "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "亚洲",
+            "target": "东南亚",
+            "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "亚洲",
+            "target": "中亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东亚",
+            "target": "中国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "印度",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "印度尼西亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "巴基斯坦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "孟加拉国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东亚",
+            "target": "日本",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "菲律宾",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "越南",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "土耳其",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "伊朗",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "泰国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "缅甸",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东亚",
+            "target": "韩国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "伊拉克",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "阿富汗",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "沙特阿拉伯",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中亚",
+            "target": "乌兹别克斯坦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "马来西亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "尼泊尔",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "也门",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东亚",
+            "target": "朝鲜",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "斯里兰卡",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中亚",
+            "target": "哈萨克斯坦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "叙利亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "柬埔寨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "约旦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "阿塞拜疆",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "阿拉伯联合酋长国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中亚",
+            "target": "塔吉克斯坦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "以色列",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "老挝",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中亚",
+            "target": "吉尔吉斯斯坦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "黎巴嫩",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中亚",
+            "target": "土库曼斯坦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "新加坡",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "巴勒斯坦国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "阿曼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "科威特",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "格鲁吉亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东亚",
+            "target": "蒙古",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "亚美尼亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "卡塔尔",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "巴林",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "东帝汶",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西亚",
+            "target": "塞浦路斯",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "不丹",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南亚",
+            "target": "马尔代夫",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东南亚",
+            "target": "文莱",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "洲名",
+            "group": "0",
+            "id": "亚洲",
+            "size": "20"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "东亚",
+            "size": "15"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "西亚",
+            "size": "15"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "南亚",
+            "size": "15"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "东南亚",
+            "size": "15"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "中亚",
+            "size": "15"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "中国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "印度",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "印度尼西亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "巴基斯坦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "孟加拉国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "日本",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "菲律宾",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "越南",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "土耳其",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "伊朗",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "泰国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "缅甸",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "韩国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "伊拉克",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "阿富汗",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "沙特阿拉伯",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "乌兹别克斯坦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "马来西亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "尼泊尔",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "也门",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "朝鲜",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "斯里兰卡",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "哈萨克斯坦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "叙利亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "柬埔寨",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "约旦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "阿塞拜疆",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "阿拉伯联合酋长国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "塔吉克斯坦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "以色列",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "老挝",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "吉尔吉斯斯坦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "黎巴嫩",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "土库曼斯坦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "新加坡",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "巴勒斯坦国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "阿曼",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "科威特",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "格鲁吉亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "蒙古",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "亚美尼亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "卡塔尔",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "巴林",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "东帝汶",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "塞浦路斯",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "不丹",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "马尔代夫",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "文莱",
+            "size": "10"
+        }
+    ]
+}
