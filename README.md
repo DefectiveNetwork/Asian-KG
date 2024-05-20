@@ -1,3 +1,3 @@
-# Eurasia-KG
+# Asian-KG
 
-Knowledge-Graph based on countries in Europe and Asia. 
+Knowledge-Graph based on countries in Asia. 
