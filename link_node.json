@@ -317,9 +317,603 @@
             "source": "东南亚",
             "target": "文莱",
             "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "欧洲",
+            "target": "东欧",
+            "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "欧洲",
+            "target": "西欧",
+            "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "欧洲",
+            "target": "南欧",
+            "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "欧洲",
+            "target": "北欧",
+            "value": 3
+        },
+        {
+            "relation": "方位",
+            "source": "欧洲",
+            "target": "中欧",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "北欧",
+            "target": "瑞典",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "北欧",
+            "target": "丹麦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "北欧",
+            "target": "芬兰",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "北欧",
+            "target": "挪威",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "北欧",
+            "target": "冰岛",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "立陶宛",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "拉脱维亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "爱沙尼亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "俄罗斯",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "乌克兰",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "罗马尼亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "白俄罗斯",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "保加利亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "东欧",
+            "target": "摩尔多瓦",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "意大利",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "西班牙",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "希腊",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "葡萄牙",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "塞尔维亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "克罗地亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "波斯尼亚和黑塞哥维那",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "阿尔巴尼亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "马其顿",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "斯洛文尼亚",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "黑山",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "马耳他",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "安道尔",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "圣马力诺",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西欧",
+            "target": "英国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西欧",
+            "target": "爱尔兰",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西欧",
+            "target": "法国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西欧",
+            "target": "荷兰",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西欧",
+            "target": "比利时",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西欧",
+            "target": "卢森堡",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "西欧",
+            "target": "摩纳哥",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中欧",
+            "target": "波兰",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中欧",
+            "target": "捷克共和国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中欧",
+            "target": "匈牙利",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中欧",
+            "target": "斯洛伐克",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中欧",
+            "target": "德国",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中欧",
+            "target": "奥地利",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中欧",
+            "target": "瑞士",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "中欧",
+            "target": "列支敦士登",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "南欧",
+            "target": "梵蒂冈",
+            "value": 3
         }
     ],
     "nodes": [
+        {
+            "class": "洲名",
+            "group": "0",
+            "id": "欧洲",
+            "size": "20"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "东欧",
+            "size": "15"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "西欧",
+            "size": "15"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "南欧",
+            "size": "15"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "北欧",
+            "size": "15"
+        },
+        {
+            "class": "具体方位",
+            "group": "1",
+            "id": "中欧",
+            "size": "15"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "瑞典",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "丹麦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "芬兰",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "挪威",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "冰岛",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "立陶宛",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "拉脱维亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "爱沙尼亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "俄罗斯",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "乌克兰",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "罗马尼亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "白俄罗斯",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "保加利亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "摩尔多瓦",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "意大利",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "西班牙",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "希腊",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "葡萄牙",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "塞尔维亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "克罗地亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "波斯尼亚和黑塞哥维那",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "阿尔巴尼亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "马其顿",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "斯洛文尼亚",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "黑山",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "马耳他",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "安道尔",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "圣马力诺",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "英国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "爱尔兰",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "法国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "荷兰",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "比利时",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "卢森堡",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "摩纳哥",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "波兰",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "捷克共和国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "匈牙利",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "斯洛伐克",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "德国",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "奥地利",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "瑞士",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "列支敦士登",
+            "size": "10"
+        },
+        {
+            "class": "国家",
+            "group": "2",
+            "id": "梵蒂冈",
+            "size": "10"
+        },
         {
             "class": "洲名",
             "group": "0",
